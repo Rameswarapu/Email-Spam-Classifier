@@ -1,0 +1,29 @@
+Python: Python is a widely used programming language for machine learning and natural language processing tasks.
+
+NumPy: NumPy is a fundamental package for numerical computing in Python and is often used for handling arrays and matrices.
+
+Pandas: Pandas is a powerful library for data manipulation and analysis, making it useful for handling and processing email data.
+
+Scikit-learn: Scikit-learn is a popular machine learning library in Python that provides various algorithms for classification and tools for model evaluation.
+
+NLTK (Natural Language Toolkit): NLTK is a library for natural language processing, tokenization, stemming, and other NLP tasks.
+
+TensorFlow or PyTorch: These are deep learning libraries that can be used for more complex and advanced email classification models, such as deep neural networks.
+
+Email Parser Library: A library to parse email files and extract relevant information from them, such as the subject, body, attachments, etc.
+
+TextBlob: TextBlob is a simple NLP library that provides easy-to-use interfaces for tasks like sentiment analysis.
+
+WordCloud: This library is useful for visualizing the most frequent words in the email data.
+
+Matplotlib or Seaborn: These libraries are commonly used for data visualization purposes.
+
+Jupyter Notebook or JupyterLab: These interactive computing environments are great for experimenting with and documenting your code.
+
+Email Dataset: You'll need a labeled dataset of emails that have been categorized into different classes. You can find such datasets online or create your own by manually labeling emails.
+
+
+
+
+
+
